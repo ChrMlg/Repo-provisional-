@@ -1,0 +1,21 @@
+Archivo de Christian
+Fecha de registro: Wed Nov 20 00:33:13 2019
+
+Edad: 17
+Peso: 55
+Estatura: 1.77
+Sexo: M
+
+Record de consumo de nutrientes, sesion Wed Nov 20 00:33:13 2019
+
+
+Calorias: 550
+Proteinas: 550
+Calcio: 1000
+Vitamina A: 400
+Vitamina C: 70
+Está consumiendo menos calorías de lo que debiera: 
+Está consumiendo menos calorías de lo que debiera:
+Está consumiendo menos calcio de lo que debiera:
+Está consumiendo menos vitamina A de lo que debiera:
+Está consumiendo menos vitamina C de lo que debiera:
